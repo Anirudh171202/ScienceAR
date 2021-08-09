@@ -1,4 +1,4 @@
-![alt text](https://github.com/Anirudh171202/ScienceAR/blob/master/image.jpeg?raw=true)
+![Alt text](image.jpeg?raw=true "ScienceAR")
 Click to download the App and try it out !
 
 https://play.google.com/store/apps/details?id=com.ARSoft.ScienceAR
